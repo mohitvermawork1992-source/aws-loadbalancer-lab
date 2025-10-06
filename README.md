@@ -1,3 +1,6 @@
+aws-loadbalancer-lab
+Hands-on AWS Lab: Internet → Application Load Balancer → EC2 + Network Load Balancer Testing with Security Groups
+
 **AWS Services Used:**
 - **5 EC2 Instances**
   - **Blue Team:** 3 EC2 instances
